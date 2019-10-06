@@ -2,9 +2,6 @@
 set -e
 set -x
 
-# run isort recursively
-# isort -rc .
-
 #run pre-commit
 pre-commit run -a
 
@@ -14,3 +11,8 @@ python3 -m pytest -v -s
 
 # create coverage-badge
 coverage-badge -o ../coverage.svg -f
+
+# run of flake8 with report output
+echo "flake8: start"
+flake8 --tee . > flake8_report/flake8.txt
+echo "flake8: report created"

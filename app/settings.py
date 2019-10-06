@@ -5,6 +5,7 @@ For local development, use a .env file to set
 environment variables.
 """
 import os
+
 from starlette.config import Config
 
 # get environment variables

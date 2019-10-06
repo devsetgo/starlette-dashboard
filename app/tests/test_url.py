@@ -3,18 +3,19 @@ import datetime
 import os
 import sys
 import time
-import uuid
 import unittest
+import uuid
 from unittest import mock
-import requests
-from requests.exceptions import Timeout
-import requests_mock
 
 import pytest
-from app.main import app, debug_mode, call_api
+import requests
+import requests_mock
+from requests.exceptions import Timeout
+from starlette.exceptions import HTTPException
 from starlette.responses import HTMLResponse
 from starlette.testclient import TestClient
-from starlette.exceptions import HTTPException
+
+from app.main import app, call_api, debug_mode
 
 client = TestClient(app)
 

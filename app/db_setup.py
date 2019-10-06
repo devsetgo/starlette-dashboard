@@ -19,6 +19,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.pool import QueuePool
 from starlette.config import Config
+
 from settings import (
     APP_VERSION,
     HOST_DOMAIN,
@@ -26,10 +27,9 @@ from settings import (
     LICENSE_TYPE,
     OWNER,
     RELEASE_ENV,
-    WEBSITE,
     SQLALCHEMY_DATABASE_URI,
+    WEBSITE,
 )
-
 
 engine = create_engine(
     SQLALCHEMY_DATABASE_URI, poolclass=QueuePool, max_overflow=10, pool_size=100

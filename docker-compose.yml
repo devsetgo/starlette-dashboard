@@ -4,9 +4,9 @@ networks:
     external: true
 services:
   srtdash:
-    build: ./app
-    image: mikeryan56/starlette-srtdash:19.8.10
-    # image: mikeryan56/starlette-srtdash:latest
+    # build: ./app
+    # # image: mikeryan56/starlette-dashboard:19.8.10
+    image: mikeryan56/starlette-dashboard:latest
     restart: always
     ports:
     - "5000"
@@ -21,7 +21,7 @@ services:
     #if using traefik
     labels:
     - traefik.backend=srtdash
-    - traefik.frontend.rule=Host:srtdash.devsetgo.com
+    - traefik.frontend.rule=Host:starlette-dashboard.devsetgo.com
     - traefik.docker.network=web
     - traefik.port=5000
     networks:

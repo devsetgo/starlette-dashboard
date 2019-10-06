@@ -4,10 +4,9 @@ import os
 from pathlib import Path
 
 import requests
-from requests.exceptions import Timeout
-
 import uvicorn
 from loguru import logger
+from requests.exceptions import Timeout
 from starlette.applications import Starlette
 from starlette.config import Config
 from starlette.exceptions import HTTPException
