@@ -1,0 +1,60 @@
+# Project info
+site_name: 'Python Project Tempaltes'
+site_description: 'A simple template for common Python projects I make'
+site_author: 'Mike Ryan'
+# site_url: 'https://squidfunk.github.io/mkdocs-material/'
+# Repository
+repo_name: 'devsetgo/python-project-template'
+repo_url: 'https://github.com/devsetgo/python-project-template'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2020 Mike Ryan'
+
+nav:
+    - Introduction: 'index.md'
+    - QuickStart: 'quickstart.md'
+    - Contributing: 'contributing.md'
+    - ChangeLog: 'changelog.md'
+    - LatestChanges: 'release-notes.md'
+
+
+
+# Theme
+# palette settings https://squidfunk.github.io/mkdocs-material/getting-started/
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'red'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  icon:
+    logo: material/cloud
+  # favicon: 'assets/images/favicon.ico'
+  language: 'en'
+  plugins:
+  - search
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - footnotes
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  # feature:
+  #   tabs: true
+  search:
+    language: 'en'
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/devsetgo
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/stuxstu
