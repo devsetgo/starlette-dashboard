@@ -13,7 +13,7 @@ async def error(request):
 
 async def not_allowed(request, exc):
     """
-    Return an HTTP 404 page.
+    Return an HTTP 403 page.
     """
     template = "error/403.html"
     context = {"request": request}

@@ -6,6 +6,7 @@ COPY . /app
 WORKDIR /app
 # Evironment Variables
 # Application information
+ENV USE_ENV='docker'
 ENV APP_VERSION='2020.01.05'
 ENV OWNER='your name'
 ENV WEBSITE='https://yoursite.com/support'

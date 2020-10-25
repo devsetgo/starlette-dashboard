@@ -12,6 +12,7 @@ jobs:
         ref: release-candidate
     - name: docker-build
       env:
+        APP_NAME: starlette-dashboard
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
       run: |
@@ -21,7 +22,7 @@ jobs:
         cd app
         CAL_VER=$(TZ=America/New_York date +"%y-%m-%d")
         echo 'Docker Build'
-        docker build . -t mikeryan56/starlette-dashboard:$CAL_VER-rc
-        docker push mikeryan56/starlette-dashboard:$CAL_VER-rc
+        docker build . -t mikeryan56/$APP_NAME:$CAL_VER-rc
+        docker push mikeryan56/$APP_NAME:$CAL_VER-rc
 
 

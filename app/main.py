@@ -11,6 +11,7 @@ from starlette.middleware import Middleware
 from endpoints.mock_github.routes import routes as mock_routes
 from endpoints.auth import endpoints as auth_pages
 from endpoints.main import endpoints as main_pages
+from endpoints.health import endpoints as health_pages
 from endpoints.pages import endpoints as pages
 from starlette.staticfiles import StaticFiles
 import httpx
@@ -27,6 +28,13 @@ routes = [
             Route("/callback", endpoint=auth_pages.callback, methods=["GET"]),
         ],
         name="auth",
+    ),
+    Mount(
+        "/health",
+        routes=[
+            Route("/status", endpoint=health_pages.health_status, methods=["GET"]),
+        ],
+        name="health",
     ),
     Mount(
         "/pages",
