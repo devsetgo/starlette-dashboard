@@ -1,6 +1,6 @@
 -r prd.txt
 autoflake==1.3.1
-autopep8==1.5.2 # from 1.5
+autopep8==1.5.4 # from 1.5
 black==19.10b0
 coverage==5.3 # from 5.0.4
 coverage-badge==1.0.1
