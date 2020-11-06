@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump aiofiles from 0.5.0 to 0.6.0 in /app/requirements. PR [#68](https://github.com/devsetgo/starlette-dashboard/pull/68) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.13.4 to 0.13.8 in /app/requirements. PR [#67](https://github.com/devsetgo/starlette-dashboard/pull/67) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pre-commit from 2.4.0 to 2.8.2 in /app/requirements. PR [#63](https://github.com/devsetgo/starlette-dashboard/pull/63) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump autoflake from 1.3.1 to 1.4 in /app/requirements. PR [#59](https://github.com/devsetgo/starlette-dashboard/pull/59) by [@dependabot[bot]](https://github.com/apps/dependabot).
