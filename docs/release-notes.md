@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump wtforms from 2.3.1 to 2.3.3 in /app/requirements. PR [#66](https://github.com/devsetgo/starlette-dashboard/pull/66) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump black from 19.10b0 to 20.8b1 in /app/requirements. PR [#64](https://github.com/devsetgo/starlette-dashboard/pull/64) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump aiofiles from 0.5.0 to 0.6.0 in /app/requirements. PR [#68](https://github.com/devsetgo/starlette-dashboard/pull/68) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.13.4 to 0.13.8 in /app/requirements. PR [#67](https://github.com/devsetgo/starlette-dashboard/pull/67) by [@dependabot[bot]](https://github.com/apps/dependabot).
