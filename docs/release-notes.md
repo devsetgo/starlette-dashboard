@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump requests from 2.23.0 to 2.25.0 in /app/requirements. PR [#73](https://github.com/devsetgo/starlette-dashboard/pull/73) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.13.8 to 0.14.1 in /app/requirements. PR [#70](https://github.com/devsetgo/starlette-dashboard/pull/70) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump aiosqlite from 0.15.0 to 0.16.0 in /app/requirements. PR [#65](https://github.com/devsetgo/starlette-dashboard/pull/65) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump wtforms from 2.3.1 to 2.3.3 in /app/requirements. PR [#66](https://github.com/devsetgo/starlette-dashboard/pull/66) by [@dependabot[bot]](https://github.com/apps/dependabot).
