@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump loguru from 0.5.0 to 0.5.3 in /app/requirements. PR [#76](https://github.com/devsetgo/starlette-dashboard/pull/76) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 5.4.2 to 6.1.2 in /app/requirements. PR [#71](https://github.com/devsetgo/starlette-dashboard/pull/71) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.5.2 to 2.6.0 in /app/requirements. PR [#72](https://github.com/devsetgo/starlette-dashboard/pull/72) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest-asyncio from 0.12.0 to 0.14.0 in /app/requirements. PR [#69](https://github.com/devsetgo/starlette-dashboard/pull/69) by [@dependabot[bot]](https://github.com/apps/dependabot).
