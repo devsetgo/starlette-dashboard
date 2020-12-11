@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pre-commit from 2.9.2 to 2.9.3 in /app/requirements. PR [#80](https://github.com/devsetgo/starlette-dashboard/pull/80) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.12.3 to 0.13.0 in /app/requirements. PR [#79](https://github.com/devsetgo/starlette-dashboard/pull/79) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.12.2 to 0.12.3 in /app/requirements. PR [#78](https://github.com/devsetgo/starlette-dashboard/pull/78) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pre-commit from 2.8.2 to 2.9.2 in /app/requirements. PR [#77](https://github.com/devsetgo/starlette-dashboard/pull/77) by [@dependabot[bot]](https://github.com/apps/dependabot).
