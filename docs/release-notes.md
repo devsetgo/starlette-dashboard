@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump coverage from 5.3 to 5.3.1 in /app/requirements. PR [#85](https://github.com/devsetgo/starlette-dashboard/pull/85) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.0 to 0.13.1 in /app/requirements. PR [#82](https://github.com/devsetgo/starlette-dashboard/pull/82) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 6.1.2 to 6.2.1 in /app/requirements. PR [#83](https://github.com/devsetgo/starlette-dashboard/pull/83) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump requests from 2.25.0 to 2.25.1 in /app/requirements. PR [#81](https://github.com/devsetgo/starlette-dashboard/pull/81) by [@dependabot[bot]](https://github.com/apps/dependabot).
