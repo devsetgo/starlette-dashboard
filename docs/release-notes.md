@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump uvicorn from 0.13.2 to 0.13.3 in /app/requirements. PR [#86](https://github.com/devsetgo/starlette-dashboard/pull/86) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.1 to 0.13.2 in /app/requirements. PR [#84](https://github.com/devsetgo/starlette-dashboard/pull/84) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump coverage from 5.3 to 5.3.1 in /app/requirements. PR [#85](https://github.com/devsetgo/starlette-dashboard/pull/85) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.0 to 0.13.1 in /app/requirements. PR [#82](https://github.com/devsetgo/starlette-dashboard/pull/82) by [@dependabot[bot]](https://github.com/apps/dependabot).
