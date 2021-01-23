@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pytest-cov from 2.10.1 to 2.11.1 in /app/requirements. PR [#88](https://github.com/devsetgo/starlette-dashboard/pull/88) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.4.3 to 1.5.2 in /app/requirements. PR [#87](https://github.com/devsetgo/starlette-dashboard/pull/87) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.2 to 0.13.3 in /app/requirements. PR [#86](https://github.com/devsetgo/starlette-dashboard/pull/86) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.1 to 0.13.2 in /app/requirements. PR [#84](https://github.com/devsetgo/starlette-dashboard/pull/84) by [@dependabot[bot]](https://github.com/apps/dependabot).
