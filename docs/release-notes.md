@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump coverage from 5.3.1 to 5.4 in /app/requirements. PR [#91](https://github.com/devsetgo/starlette-dashboard/pull/91) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 6.2.1 to 6.2.2 in /app/requirements. PR [#90](https://github.com/devsetgo/starlette-dashboard/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pre-commit from 2.9.3 to 2.10.0 in /app/requirements. PR [#92](https://github.com/devsetgo/starlette-dashboard/pull/92) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump aiosqlite from 0.16.0 to 0.16.1 in /app/requirements. PR [#89](https://github.com/devsetgo/starlette-dashboard/pull/89) by [@dependabot[bot]](https://github.com/apps/dependabot).
