@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pre-commit from 2.9.3 to 2.10.0 in /app/requirements. PR [#92](https://github.com/devsetgo/starlette-dashboard/pull/92) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump aiosqlite from 0.16.0 to 0.16.1 in /app/requirements. PR [#89](https://github.com/devsetgo/starlette-dashboard/pull/89) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest-cov from 2.10.1 to 2.11.1 in /app/requirements. PR [#88](https://github.com/devsetgo/starlette-dashboard/pull/88) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.4.3 to 1.5.2 in /app/requirements. PR [#87](https://github.com/devsetgo/starlette-dashboard/pull/87) by [@dependabot[bot]](https://github.com/apps/dependabot).
