@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump jinja2 from 2.11.2 to 2.11.3 in /app/requirements. PR [#95](https://github.com/devsetgo/starlette-dashboard/pull/95) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.14.1 to 0.14.2 in /app/requirements. PR [#93](https://github.com/devsetgo/starlette-dashboard/pull/93) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump coverage from 5.3.1 to 5.4 in /app/requirements. PR [#91](https://github.com/devsetgo/starlette-dashboard/pull/91) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 6.2.1 to 6.2.2 in /app/requirements. PR [#90](https://github.com/devsetgo/starlette-dashboard/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
