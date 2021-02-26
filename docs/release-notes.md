@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump alembic from 1.5.4 to 1.5.5 in /app/requirements. PR [#101](https://github.com/devsetgo/starlette-dashboard/pull/101) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.6.2 to 2.7.1 in /app/requirements. PR [#102](https://github.com/devsetgo/starlette-dashboard/pull/102) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.6.0 to 2.6.2 in /app/requirements. PR [#98](https://github.com/devsetgo/starlette-dashboard/pull/98) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pre-commit from 2.10.0 to 2.10.1 in /app/requirements. PR [#96](https://github.com/devsetgo/starlette-dashboard/pull/96) by [@dependabot[bot]](https://github.com/apps/dependabot).
