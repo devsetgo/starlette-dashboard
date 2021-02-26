@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump aiosqlite from 0.16.1 to 0.17.0 in /app/requirements. PR [#100](https://github.com/devsetgo/starlette-dashboard/pull/100) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.3 to 0.13.4 in /app/requirements. PR [#99](https://github.com/devsetgo/starlette-dashboard/pull/99) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.5.4 to 1.5.5 in /app/requirements. PR [#101](https://github.com/devsetgo/starlette-dashboard/pull/101) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.6.2 to 2.7.1 in /app/requirements. PR [#102](https://github.com/devsetgo/starlette-dashboard/pull/102) by [@dependabot[bot]](https://github.com/apps/dependabot).
