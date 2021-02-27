@@ -1,5 +1,21 @@
 # Release Notes
 
+* Bump aiosqlite from 0.16.1 to 0.17.0 in /app/requirements. PR [#100](https://github.com/devsetgo/starlette-dashboard/pull/100) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump uvicorn from 0.13.3 to 0.13.4 in /app/requirements. PR [#99](https://github.com/devsetgo/starlette-dashboard/pull/99) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump alembic from 1.5.4 to 1.5.5 in /app/requirements. PR [#101](https://github.com/devsetgo/starlette-dashboard/pull/101) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pylint from 2.6.2 to 2.7.1 in /app/requirements. PR [#102](https://github.com/devsetgo/starlette-dashboard/pull/102) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pylint from 2.6.0 to 2.6.2 in /app/requirements. PR [#98](https://github.com/devsetgo/starlette-dashboard/pull/98) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pre-commit from 2.10.0 to 2.10.1 in /app/requirements. PR [#96](https://github.com/devsetgo/starlette-dashboard/pull/96) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump autopep8 from 1.5.4 to 1.5.5 in /app/requirements. PR [#97](https://github.com/devsetgo/starlette-dashboard/pull/97) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump alembic from 1.5.2 to 1.5.4 in /app/requirements. PR [#94](https://github.com/devsetgo/starlette-dashboard/pull/94) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump jinja2 from 2.11.2 to 2.11.3 in /app/requirements. PR [#95](https://github.com/devsetgo/starlette-dashboard/pull/95) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump starlette from 0.14.1 to 0.14.2 in /app/requirements. PR [#93](https://github.com/devsetgo/starlette-dashboard/pull/93) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump coverage from 5.3.1 to 5.4 in /app/requirements. PR [#91](https://github.com/devsetgo/starlette-dashboard/pull/91) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pytest from 6.2.1 to 6.2.2 in /app/requirements. PR [#90](https://github.com/devsetgo/starlette-dashboard/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pre-commit from 2.9.3 to 2.10.0 in /app/requirements. PR [#92](https://github.com/devsetgo/starlette-dashboard/pull/92) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump aiosqlite from 0.16.0 to 0.16.1 in /app/requirements. PR [#89](https://github.com/devsetgo/starlette-dashboard/pull/89) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pytest-cov from 2.10.1 to 2.11.1 in /app/requirements. PR [#88](https://github.com/devsetgo/starlette-dashboard/pull/88) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump alembic from 1.4.3 to 1.5.2 in /app/requirements. PR [#87](https://github.com/devsetgo/starlette-dashboard/pull/87) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.2 to 0.13.3 in /app/requirements. PR [#86](https://github.com/devsetgo/starlette-dashboard/pull/86) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.1 to 0.13.2 in /app/requirements. PR [#84](https://github.com/devsetgo/starlette-dashboard/pull/84) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump coverage from 5.3 to 5.3.1 in /app/requirements. PR [#85](https://github.com/devsetgo/starlette-dashboard/pull/85) by [@dependabot[bot]](https://github.com/apps/dependabot).
