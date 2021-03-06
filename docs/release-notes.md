@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump coverage from 5.4 to 5.5 in /app/requirements. PR [#105](https://github.com/devsetgo/starlette-dashboard/pull/105) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.16.1 to 0.17.0 in /app/requirements. PR [#104](https://github.com/devsetgo/starlette-dashboard/pull/104) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.5.5 to 1.5.6 in /app/requirements. PR [#106](https://github.com/devsetgo/starlette-dashboard/pull/106) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump aiosqlite from 0.16.1 to 0.17.0 in /app/requirements. PR [#100](https://github.com/devsetgo/starlette-dashboard/pull/100) by [@dependabot[bot]](https://github.com/apps/dependabot).
