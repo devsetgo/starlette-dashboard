@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pre-commit from 2.10.1 to 2.11.1 in /app/requirements. PR [#108](https://github.com/devsetgo/starlette-dashboard/pull/108) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.7.1 to 2.7.2 in /app/requirements. PR [#103](https://github.com/devsetgo/starlette-dashboard/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump coverage from 5.4 to 5.5 in /app/requirements. PR [#105](https://github.com/devsetgo/starlette-dashboard/pull/105) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.16.1 to 0.17.0 in /app/requirements. PR [#104](https://github.com/devsetgo/starlette-dashboard/pull/104) by [@dependabot[bot]](https://github.com/apps/dependabot).
