@@ -4,8 +4,8 @@ aiofiles==0.6.0 # from 0.4.0
 aiosqlite==0.17.0 # from 0.11.0
 alembic==1.5.7
 click==7.1.2 # from 7.1.1
-databases==0.4.1 # from 0.2.6
-gunicorn==20.0.4
+databases==0.4.3 # from 0.2.6
+gunicorn==20.1.0
 httpx==0.17.0 # from 0.12.1
 itsdangerous==1.1.0
 jinja2==2.11.3 # from 2.11.1
