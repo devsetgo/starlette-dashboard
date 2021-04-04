@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump flake8 from 3.8.4 to 3.9.0 in /app/requirements. PR [#109](https://github.com/devsetgo/starlette-dashboard/pull/109) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 6.2.2 to 6.2.3 in /app/requirements. PR [#116](https://github.com/devsetgo/starlette-dashboard/pull/116) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.7.2 to 2.7.4 in /app/requirements. PR [#117](https://github.com/devsetgo/starlette-dashboard/pull/117) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.17.0 to 0.17.1 in /app/requirements. PR [#112](https://github.com/devsetgo/starlette-dashboard/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
