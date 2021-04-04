@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pylint from 2.7.2 to 2.7.4 in /app/requirements. PR [#117](https://github.com/devsetgo/starlette-dashboard/pull/117) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.17.0 to 0.17.1 in /app/requirements. PR [#112](https://github.com/devsetgo/starlette-dashboard/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.5.7 to 1.5.8 in /app/requirements. PR [#113](https://github.com/devsetgo/starlette-dashboard/pull/113) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump gunicorn from 20.0.4 to 20.1.0 in /app/requirements. PR [#115](https://github.com/devsetgo/starlette-dashboard/pull/115) by [@dependabot[bot]](https://github.com/apps/dependabot).
