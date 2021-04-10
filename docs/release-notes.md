@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pre-commit from 2.11.1 to 2.12.0 in /app/requirements. PR [#118](https://github.com/devsetgo/starlette-dashboard/pull/118) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump autopep8 from 1.5.5 to 1.5.6 in /app/requirements. PR [#110](https://github.com/devsetgo/starlette-dashboard/pull/110) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump flake8 from 3.8.4 to 3.9.0 in /app/requirements. PR [#109](https://github.com/devsetgo/starlette-dashboard/pull/109) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest from 6.2.2 to 6.2.3 in /app/requirements. PR [#116](https://github.com/devsetgo/starlette-dashboard/pull/116) by [@dependabot[bot]](https://github.com/apps/dependabot).
