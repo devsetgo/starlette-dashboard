@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump autopep8 from 1.5.6 to 1.5.7 in /app/requirements. PR [#125](https://github.com/devsetgo/starlette-dashboard/pull/125) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.17.1 to 0.18.1 in /app/requirements. PR [#122](https://github.com/devsetgo/starlette-dashboard/pull/122) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.7.4 to 2.8.2 in /app/requirements. PR [#126](https://github.com/devsetgo/starlette-dashboard/pull/126) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest-asyncio from 0.14.0 to 0.15.1 in /app/requirements. PR [#121](https://github.com/devsetgo/starlette-dashboard/pull/121) by [@dependabot[bot]](https://github.com/apps/dependabot).
