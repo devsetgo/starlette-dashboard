@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump black from 20.8b1 to 21.4b2 in /app/requirements. PR [#124](https://github.com/devsetgo/starlette-dashboard/pull/124) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump requests-mock from 1.8.0 to 1.9.2 in /app/requirements. PR [#123](https://github.com/devsetgo/starlette-dashboard/pull/123) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump autopep8 from 1.5.6 to 1.5.7 in /app/requirements. PR [#125](https://github.com/devsetgo/starlette-dashboard/pull/125) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.17.1 to 0.18.1 in /app/requirements. PR [#122](https://github.com/devsetgo/starlette-dashboard/pull/122) by [@dependabot[bot]](https://github.com/apps/dependabot).
