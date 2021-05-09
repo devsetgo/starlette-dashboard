@@ -1,5 +1,6 @@
 # Release Notes
 
+* Dev. PR [#131](https://github.com/devsetgo/starlette-dashboard/pull/131) by [@devsetgo](https://github.com/devsetgo).
 * Bump pytest from 6.2.3 to 6.2.4 in /app/requirements. PR [#128](https://github.com/devsetgo/starlette-dashboard/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump black from 21.4b2 to 21.5b0 in /app/requirements. PR [#129](https://github.com/devsetgo/starlette-dashboard/pull/129) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.5.8 to 1.6.2 in /app/requirements. PR [#127](https://github.com/devsetgo/starlette-dashboard/pull/127) by [@dependabot[bot]](https://github.com/apps/dependabot).
