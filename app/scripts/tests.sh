@@ -14,7 +14,7 @@ pre-commit run -a
 # python3 -m pytest
 # python3 -m pytest -v -s # verbose
 python3 -m pytest
-
+sed -i "s/<source>\/home\/mike\/starlette-dashboard\/app<\/source>/<source>\/github\/workspace\/app<\/source>/g" /home/mike/starlette-dashboard/app/coverage.xml
 # create coverage-badge
 coverage-badge -o ../coverage.svg -f
 
