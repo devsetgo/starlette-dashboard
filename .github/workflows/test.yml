@@ -18,10 +18,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        cd app
+        cd src
         pip install -r requirements/dev.txt
     - name: Test with pytest
       run: |
-        cd app
+        cd src
         cp .env_sample .env
         python3 -m pytest
