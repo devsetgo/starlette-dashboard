@@ -12,6 +12,8 @@ import secrets
 # get environment variables
 config = Config(".env")
 USE_ENV = config("USE_ENV", default="docker")
+# Access Token Settings
+SECRET_KEY = secrets.token_urlsafe(64)
 
 # Application information
 if USE_ENV.lower() == "dotenv":
@@ -45,9 +47,6 @@ if USE_ENV.lower() == "dotenv":
     # Loguru settings
     LOGURU_RETENTION = config("LOGURU_RETENTION", default="10 days")
     LOGURU_ROTATION = config("LOGURU_ROTATION", default="10 MB")
-
-    # Access Token Settings
-    SECRET_KEY = config("SECRET_KEY", default=secrets.token_hex(24))
 
     # GitHub API
     GITHUB_CLIENT_ID = config("GITHUB_CLIENT_ID", cast=str, default="no-id")
@@ -89,9 +88,6 @@ else:
     # Loguru settings
     LOGURU_RETENTION = os.environ["LOGURU_RETENTION"]
     LOGURU_ROTATION = os.environ["LOGURU_ROTATION"]
-
-    # Access Token Settings
-    SECRET_KEY = os.environ["SECRET_KEY"]
 
     # GitHub API
     GITHUB_CLIENT_ID = os.environ["GITHUB_CLIENT_ID"]
