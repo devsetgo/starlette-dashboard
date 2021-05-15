@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump black from 21.5b0 to 21.5b1 in /app/requirements. PR [#135](https://github.com/devsetgo/starlette-dashboard/pull/135) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest-cov from 2.11.1 to 2.12.0 in /app/requirements. PR [#136](https://github.com/devsetgo/starlette-dashboard/pull/136) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Dev. PR [#131](https://github.com/devsetgo/starlette-dashboard/pull/131) by [@devsetgo](https://github.com/devsetgo).
 * Bump pytest from 6.2.3 to 6.2.4 in /app/requirements. PR [#128](https://github.com/devsetgo/starlette-dashboard/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
