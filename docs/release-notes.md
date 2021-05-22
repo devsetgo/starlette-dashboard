@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pre-commit from 2.12.1 to 2.13.0 in /app/requirements. PR [#141](https://github.com/devsetgo/starlette-dashboard/pull/141) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.6.2 to 1.6.3 in /app/requirements. PR [#137](https://github.com/devsetgo/starlette-dashboard/pull/137) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump itsdangerous from 1.1.0 to 2.0.0 in /app/requirements. PR [#133](https://github.com/devsetgo/starlette-dashboard/pull/133) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump jinja2 from 2.11.3 to 3.0.0 in /app/requirements. PR [#134](https://github.com/devsetgo/starlette-dashboard/pull/134) by [@dependabot[bot]](https://github.com/apps/dependabot).
