@@ -1,5 +1,14 @@
 # Release Notes
 
+* Bump aiofiles from 0.6.0 to 0.7.0 in /app/requirements. PR [#139](https://github.com/devsetgo/starlette-dashboard/pull/139) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump itsdangerous from 2.0.0 to 2.0.1 in /app/requirements. PR [#140](https://github.com/devsetgo/starlette-dashboard/pull/140) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pre-commit from 2.12.1 to 2.13.0 in /app/requirements. PR [#141](https://github.com/devsetgo/starlette-dashboard/pull/141) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump alembic from 1.6.2 to 1.6.3 in /app/requirements. PR [#137](https://github.com/devsetgo/starlette-dashboard/pull/137) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump itsdangerous from 1.1.0 to 2.0.0 in /app/requirements. PR [#133](https://github.com/devsetgo/starlette-dashboard/pull/133) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump jinja2 from 2.11.3 to 3.0.0 in /app/requirements. PR [#134](https://github.com/devsetgo/starlette-dashboard/pull/134) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump black from 21.5b0 to 21.5b1 in /app/requirements. PR [#135](https://github.com/devsetgo/starlette-dashboard/pull/135) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Bump pytest-cov from 2.11.1 to 2.12.0 in /app/requirements. PR [#136](https://github.com/devsetgo/starlette-dashboard/pull/136) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Dev. PR [#131](https://github.com/devsetgo/starlette-dashboard/pull/131) by [@devsetgo](https://github.com/devsetgo).
 * Bump pytest from 6.2.3 to 6.2.4 in /app/requirements. PR [#128](https://github.com/devsetgo/starlette-dashboard/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump black from 21.4b2 to 21.5b0 in /app/requirements. PR [#129](https://github.com/devsetgo/starlette-dashboard/pull/129) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.5.8 to 1.6.2 in /app/requirements. PR [#127](https://github.com/devsetgo/starlette-dashboard/pull/127) by [@dependabot[bot]](https://github.com/apps/dependabot).
