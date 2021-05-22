@@ -1,6 +1,6 @@
 #asyncpg==0.22.0 # from 0.20.1
 #aiomysql==0.0.21 # from 0.0.20
-aiofiles==0.6.0 # from 0.5.0
+aiofiles==0.7.0 # from 0.5.0
 aiosqlite==0.17.0 # from 0.13.0
 alembic==1.6.3 # from 1.4.3
 click==7.1.2
