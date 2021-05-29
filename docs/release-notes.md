@@ -1,5 +1,6 @@
 # Release Notes
 
+* updates. PR [#146](https://github.com/devsetgo/starlette-dashboard/pull/146) by [@devsetgo](https://github.com/devsetgo).
 * removing click. PR [#142](https://github.com/devsetgo/starlette-dashboard/pull/142) by [@devsetgo](https://github.com/devsetgo).
 * Bump aiofiles from 0.6.0 to 0.7.0 in /app/requirements. PR [#139](https://github.com/devsetgo/starlette-dashboard/pull/139) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump itsdangerous from 2.0.0 to 2.0.1 in /app/requirements. PR [#140](https://github.com/devsetgo/starlette-dashboard/pull/140) by [@dependabot[bot]](https://github.com/apps/dependabot).
