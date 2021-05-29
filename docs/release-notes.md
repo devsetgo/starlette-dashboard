@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump alembic from 1.6.3 to 1.6.5 in /app/requirements. PR [#144](https://github.com/devsetgo/starlette-dashboard/pull/144) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump requests-mock from 1.9.2 to 1.9.3 in /app/requirements. PR [#145](https://github.com/devsetgo/starlette-dashboard/pull/145) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * updates. PR [#146](https://github.com/devsetgo/starlette-dashboard/pull/146) by [@devsetgo](https://github.com/devsetgo).
 * removing click. PR [#142](https://github.com/devsetgo/starlette-dashboard/pull/142) by [@devsetgo](https://github.com/devsetgo).
