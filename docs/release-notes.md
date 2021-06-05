@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump pylint from 2.8.2 to 2.8.3 in /app/requirements. PR [#148](https://github.com/devsetgo/starlette-dashboard/pull/148) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pytest-cov from 2.12.0 to 2.12.1 in /app/requirements. PR [#149](https://github.com/devsetgo/starlette-dashboard/pull/149) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump black from 21.5b1 to 21.5b2 in /app/requirements. PR [#150](https://github.com/devsetgo/starlette-dashboard/pull/150) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump alembic from 1.6.3 to 1.6.5 in /app/requirements. PR [#144](https://github.com/devsetgo/starlette-dashboard/pull/144) by [@dependabot[bot]](https://github.com/apps/dependabot).
