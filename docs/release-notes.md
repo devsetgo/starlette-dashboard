@@ -1,5 +1,6 @@
 # Release Notes
 
+* Bump httpx from 0.18.1 to 0.18.2 in /app/requirements. PR [#152](https://github.com/devsetgo/starlette-dashboard/pull/152) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump black from 21.5b2 to 21.6b0 in /app/requirements. PR [#151](https://github.com/devsetgo/starlette-dashboard/pull/151) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump uvicorn from 0.13.4 to 0.14.0 in /app/requirements. PR [#147](https://github.com/devsetgo/starlette-dashboard/pull/147) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.8.2 to 2.8.3 in /app/requirements. PR [#148](https://github.com/devsetgo/starlette-dashboard/pull/148) by [@dependabot[bot]](https://github.com/apps/dependabot).
