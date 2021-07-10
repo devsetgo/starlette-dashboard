@@ -8,6 +8,32 @@ updates:
     # Look for `package.json` and `lock` files in the `root` directory
     directory: "/app/requirements"
     # Check the npm registry for updates every day (weekdays)
+    labels:
+      - "pip"
+      - "dependencies"
+    commit-message:
+      # Prefix all commit messages with "npm"
+      prefix: "pip"
+      include: "scope"
     schedule:
-      interval: "weekly"
-      day: "saturday"
+      interval: 'monthly'
+      day: 'saturday'
+      time: "04:00"
+      timezone: "America/New_York"
+    # schedule:
+    #   cron: '0 0 5 ? 1/1 SAT#1 *'
+  # packages:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    labels:
+      - "github actions"
+      - "dependencies"
+    commit-message:
+      # Prefix all commit messages with "npm"
+      prefix: "github actionts"
+      include: "scope"
+    schedule:
+      interval: 'monthly'
+      day: 'saturday'
+      time: "04:00"
+      timezone: "America/New_York"
