@@ -1,5 +1,6 @@
 # Release Notes
 
+* Dev. PR [#157](https://github.com/devsetgo/starlette-dashboard/pull/157) by [@devsetgo](https://github.com/devsetgo).
 * Bump black from 21.6b0 to 21.7b0 in /app/requirements. PR [#156](https://github.com/devsetgo/starlette-dashboard/pull/156) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.8.3 to 2.9.3 in /app/requirements. PR [#154](https://github.com/devsetgo/starlette-dashboard/pull/154) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.14.2 to 0.15.0 in /app/requirements. PR [#153](https://github.com/devsetgo/starlette-dashboard/pull/153) by [@dependabot[bot]](https://github.com/apps/dependabot).
