@@ -1,5 +1,6 @@
 # Release Notes
 
+* github actionts(deps): bump actions/setup-python from 1 to 2.2.2. PR [#158](https://github.com/devsetgo/starlette-dashboard/pull/158) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Dev. PR [#157](https://github.com/devsetgo/starlette-dashboard/pull/157) by [@devsetgo](https://github.com/devsetgo).
 * Bump black from 21.6b0 to 21.7b0 in /app/requirements. PR [#156](https://github.com/devsetgo/starlette-dashboard/pull/156) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.8.3 to 2.9.3 in /app/requirements. PR [#154](https://github.com/devsetgo/starlette-dashboard/pull/154) by [@dependabot[bot]](https://github.com/apps/dependabot).
