@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps-dev): bump pylint from 2.9.3 to 2.9.6 in /app/requirements. PR [#160](https://github.com/devsetgo/starlette-dashboard/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump starlette from 0.15.0 to 0.16.0 in /app/requirements. PR [#159](https://github.com/devsetgo/starlette-dashboard/pull/159) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * github actionts(deps): bump actions/setup-python from 1 to 2.2.2. PR [#158](https://github.com/devsetgo/starlette-dashboard/pull/158) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Dev. PR [#157](https://github.com/devsetgo/starlette-dashboard/pull/157) by [@devsetgo](https://github.com/devsetgo).
