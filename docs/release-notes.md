@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps-dev): bump pre-commit from 2.13.0 to 2.15.0 in /app/requirements. PR [#166](https://github.com/devsetgo/starlette-dashboard/pull/166) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pytest from 6.2.4 to 6.2.5 in /app/requirements. PR [#165](https://github.com/devsetgo/starlette-dashboard/pull/165) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump databases from 0.4.3 to 0.5.0 in /app/requirements. PR [#164](https://github.com/devsetgo/starlette-dashboard/pull/164) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump uvicorn from 0.14.0 to 0.15.0 in /app/requirements. PR [#163](https://github.com/devsetgo/starlette-dashboard/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
