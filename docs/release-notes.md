@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump uvicorn from 0.14.0 to 0.15.0 in /app/requirements. PR [#163](https://github.com/devsetgo/starlette-dashboard/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.9.6 to 2.10.2 in /app/requirements. PR [#161](https://github.com/devsetgo/starlette-dashboard/pull/161) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.9.3 to 2.9.6 in /app/requirements. PR [#160](https://github.com/devsetgo/starlette-dashboard/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump starlette from 0.15.0 to 0.16.0 in /app/requirements. PR [#159](https://github.com/devsetgo/starlette-dashboard/pull/159) by [@dependabot[bot]](https://github.com/apps/dependabot).
