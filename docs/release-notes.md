@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump alembic from 1.6.5 to 1.7.3 in /app/requirements. PR [#167](https://github.com/devsetgo/starlette-dashboard/pull/167) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.10.2 to 2.11.1 in /app/requirements. PR [#168](https://github.com/devsetgo/starlette-dashboard/pull/168) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump databases from 0.5.0 to 0.5.2 in /app/requirements. PR [#169](https://github.com/devsetgo/starlette-dashboard/pull/169) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump httpx from 0.18.2 to 0.19.0 in /app/requirements. PR [#170](https://github.com/devsetgo/starlette-dashboard/pull/170) by [@dependabot[bot]](https://github.com/apps/dependabot).
