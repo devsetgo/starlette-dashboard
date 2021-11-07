@@ -1,5 +1,24 @@
 # Release Notes
 
+* pip(deps): bump databases from 0.5.2 to 0.5.3 in /app/requirements. PR [#176](https://github.com/devsetgo/starlette-dashboard/pull/176) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump httpx from 0.19.0 to 0.20.0 in /app/requirements. PR [#175](https://github.com/devsetgo/starlette-dashboard/pull/175) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump jinja2 from 3.0.1 to 3.0.2 in /app/requirements. PR [#173](https://github.com/devsetgo/starlette-dashboard/pull/173) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump coverage from 5.5 to 6.1.1 in /app/requirements. PR [#172](https://github.com/devsetgo/starlette-dashboard/pull/172) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump alembic from 1.6.5 to 1.7.3 in /app/requirements. PR [#167](https://github.com/devsetgo/starlette-dashboard/pull/167) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump pylint from 2.10.2 to 2.11.1 in /app/requirements. PR [#168](https://github.com/devsetgo/starlette-dashboard/pull/168) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump databases from 0.5.0 to 0.5.2 in /app/requirements. PR [#169](https://github.com/devsetgo/starlette-dashboard/pull/169) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump httpx from 0.18.2 to 0.19.0 in /app/requirements. PR [#170](https://github.com/devsetgo/starlette-dashboard/pull/170) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump black from 21.7b0 to 21.9b0 in /app/requirements. PR [#171](https://github.com/devsetgo/starlette-dashboard/pull/171) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump pre-commit from 2.13.0 to 2.15.0 in /app/requirements. PR [#166](https://github.com/devsetgo/starlette-dashboard/pull/166) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump pytest from 6.2.4 to 6.2.5 in /app/requirements. PR [#165](https://github.com/devsetgo/starlette-dashboard/pull/165) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump databases from 0.4.3 to 0.5.0 in /app/requirements. PR [#164](https://github.com/devsetgo/starlette-dashboard/pull/164) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump uvicorn from 0.14.0 to 0.15.0 in /app/requirements. PR [#163](https://github.com/devsetgo/starlette-dashboard/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump pylint from 2.9.6 to 2.10.2 in /app/requirements. PR [#161](https://github.com/devsetgo/starlette-dashboard/pull/161) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps-dev): bump pylint from 2.9.3 to 2.9.6 in /app/requirements. PR [#160](https://github.com/devsetgo/starlette-dashboard/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* pip(deps): bump starlette from 0.15.0 to 0.16.0 in /app/requirements. PR [#159](https://github.com/devsetgo/starlette-dashboard/pull/159) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* github actionts(deps): bump actions/setup-python from 1 to 2.2.2. PR [#158](https://github.com/devsetgo/starlette-dashboard/pull/158) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* Dev. PR [#157](https://github.com/devsetgo/starlette-dashboard/pull/157) by [@devsetgo](https://github.com/devsetgo).
+* Bump black from 21.6b0 to 21.7b0 in /app/requirements. PR [#156](https://github.com/devsetgo/starlette-dashboard/pull/156) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump pylint from 2.8.3 to 2.9.3 in /app/requirements. PR [#154](https://github.com/devsetgo/starlette-dashboard/pull/154) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.14.2 to 0.15.0 in /app/requirements. PR [#153](https://github.com/devsetgo/starlette-dashboard/pull/153) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump httpx from 0.18.1 to 0.18.2 in /app/requirements. PR [#152](https://github.com/devsetgo/starlette-dashboard/pull/152) by [@dependabot[bot]](https://github.com/apps/dependabot).
