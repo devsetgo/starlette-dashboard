@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump jinja2 from 3.0.1 to 3.0.2 in /app/requirements. PR [#173](https://github.com/devsetgo/starlette-dashboard/pull/173) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump coverage from 5.5 to 6.1.1 in /app/requirements. PR [#172](https://github.com/devsetgo/starlette-dashboard/pull/172) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump alembic from 1.6.5 to 1.7.3 in /app/requirements. PR [#167](https://github.com/devsetgo/starlette-dashboard/pull/167) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.10.2 to 2.11.1 in /app/requirements. PR [#168](https://github.com/devsetgo/starlette-dashboard/pull/168) by [@dependabot[bot]](https://github.com/apps/dependabot).
