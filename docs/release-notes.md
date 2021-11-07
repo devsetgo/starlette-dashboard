@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump databases from 0.5.2 to 0.5.3 in /app/requirements. PR [#176](https://github.com/devsetgo/starlette-dashboard/pull/176) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump httpx from 0.19.0 to 0.20.0 in /app/requirements. PR [#175](https://github.com/devsetgo/starlette-dashboard/pull/175) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump jinja2 from 3.0.1 to 3.0.2 in /app/requirements. PR [#173](https://github.com/devsetgo/starlette-dashboard/pull/173) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump coverage from 5.5 to 6.1.1 in /app/requirements. PR [#172](https://github.com/devsetgo/starlette-dashboard/pull/172) by [@dependabot[bot]](https://github.com/apps/dependabot).
