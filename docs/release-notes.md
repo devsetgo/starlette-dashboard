@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump jinja2 from 3.0.2 to 3.0.3 in /app/requirements. PR [#190](https://github.com/devsetgo/starlette-dashboard/pull/190) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.11.1 to 2.12.1 in /app/requirements. PR [#182](https://github.com/devsetgo/starlette-dashboard/pull/182) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump starlette from 0.17.0 to 0.17.1 in /app/requirements. PR [#183](https://github.com/devsetgo/starlette-dashboard/pull/183) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump black from 21.10b0 to 21.11b1 in /app/requirements. PR [#184](https://github.com/devsetgo/starlette-dashboard/pull/184) by [@dependabot[bot]](https://github.com/apps/dependabot).
