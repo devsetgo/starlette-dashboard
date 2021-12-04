@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump aiofiles from 0.7.0 to 0.8.0 in /app/requirements. PR [#188](https://github.com/devsetgo/starlette-dashboard/pull/188) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pre-commit from 2.15.0 to 2.16.0 in /app/requirements. PR [#191](https://github.com/devsetgo/starlette-dashboard/pull/191) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump jinja2 from 3.0.2 to 3.0.3 in /app/requirements. PR [#190](https://github.com/devsetgo/starlette-dashboard/pull/190) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.11.1 to 2.12.1 in /app/requirements. PR [#182](https://github.com/devsetgo/starlette-dashboard/pull/182) by [@dependabot[bot]](https://github.com/apps/dependabot).
