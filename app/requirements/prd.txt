@@ -1,7 +1,7 @@
 #asyncpg==0.24.0 # from 0.22.0
 alembic==1.7.5 # from 1.6.5
 databases==0.5.3 # from 0.4.3
-httpx==0.20.0 # from 0.18.2
+httpx==0.21.1 # from 0.18.2
 itsdangerous==2.0.1
 jinja2==3.0.3 # from 3.0.1
 starlette==0.17.1 # from 0.15.0
