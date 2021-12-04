@@ -5,7 +5,7 @@ black==21.11b1 # from 21.7b0
 coverage-badge==1.1.0 # from 1.0.1
 flake8==4.0.1 # from 3.9.2
 pre-commit==2.16.0 # from 2.13.0
-pylint==2.12.1 # from 2.9.3
+pylint==2.12.2 # from 2.9.3
 pytest==6.2.5 # from 6.2.4
 pytest-asyncio==0.16.0 # from 0.15.1
 pytest-cov==3.0.0 # from 2.12.1
