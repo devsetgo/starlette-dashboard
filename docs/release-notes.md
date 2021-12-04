@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump alembic from 1.7.4 to 1.7.5 in /app/requirements. PR [#185](https://github.com/devsetgo/starlette-dashboard/pull/185) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump coverage-badge from 1.0.2 to 1.1.0 in /app/requirements. PR [#186](https://github.com/devsetgo/starlette-dashboard/pull/186) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * github actionts(deps): bump actions/setup-python from 2.2.2 to 2.3.1. PR [#187](https://github.com/devsetgo/starlette-dashboard/pull/187) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Dev. PR [#181](https://github.com/devsetgo/starlette-dashboard/pull/181) by [@devsetgo](https://github.com/devsetgo).
