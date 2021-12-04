@@ -1,5 +1,6 @@
 # Release Notes
 
+* github actionts(deps): bump actions/setup-python from 2.2.2 to 2.3.1. PR [#187](https://github.com/devsetgo/starlette-dashboard/pull/187) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Dev. PR [#181](https://github.com/devsetgo/starlette-dashboard/pull/181) by [@devsetgo](https://github.com/devsetgo).
 * pip(deps): bump databases from 0.5.2 to 0.5.3 in /app/requirements. PR [#176](https://github.com/devsetgo/starlette-dashboard/pull/176) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump httpx from 0.19.0 to 0.20.0 in /app/requirements. PR [#175](https://github.com/devsetgo/starlette-dashboard/pull/175) by [@dependabot[bot]](https://github.com/apps/dependabot).
