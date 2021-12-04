@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump starlette from 0.17.0 to 0.17.1 in /app/requirements. PR [#183](https://github.com/devsetgo/starlette-dashboard/pull/183) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump black from 21.10b0 to 21.11b1 in /app/requirements. PR [#184](https://github.com/devsetgo/starlette-dashboard/pull/184) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump alembic from 1.7.4 to 1.7.5 in /app/requirements. PR [#185](https://github.com/devsetgo/starlette-dashboard/pull/185) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump coverage-badge from 1.0.2 to 1.1.0 in /app/requirements. PR [#186](https://github.com/devsetgo/starlette-dashboard/pull/186) by [@dependabot[bot]](https://github.com/apps/dependabot).
