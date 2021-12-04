@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps): bump httpx from 0.20.0 to 0.21.1 in /app/requirements. PR [#189](https://github.com/devsetgo/starlette-dashboard/pull/189) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pylint from 2.11.1 to 2.12.2 in /app/requirements. PR [#192](https://github.com/devsetgo/starlette-dashboard/pull/192) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump aiofiles from 0.7.0 to 0.8.0 in /app/requirements. PR [#188](https://github.com/devsetgo/starlette-dashboard/pull/188) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump pre-commit from 2.15.0 to 2.16.0 in /app/requirements. PR [#191](https://github.com/devsetgo/starlette-dashboard/pull/191) by [@dependabot[bot]](https://github.com/apps/dependabot).
