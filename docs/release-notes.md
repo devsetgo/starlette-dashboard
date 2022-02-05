@@ -1,5 +1,6 @@
 # Release Notes
 
+* pip(deps-dev): bump pre-commit from 2.16.0 to 2.17.0 in /app/requirements. PR [#196](https://github.com/devsetgo/starlette-dashboard/pull/196) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump uvicorn from 0.15.0 to 0.16.0 in /app/requirements. PR [#194](https://github.com/devsetgo/starlette-dashboard/pull/194) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps-dev): bump black from 21.11b1 to 21.12b0 in /app/requirements. PR [#193](https://github.com/devsetgo/starlette-dashboard/pull/193) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * pip(deps): bump httpx from 0.20.0 to 0.21.1 in /app/requirements. PR [#189](https://github.com/devsetgo/starlette-dashboard/pull/189) by [@dependabot[bot]](https://github.com/apps/dependabot).
