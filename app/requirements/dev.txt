@@ -1,4 +1,5 @@
 -r prd.txt
+autoflake==1.4
 autopep8==1.6.0
 black==22.1.0 # from 21.12b0
 coverage-badge==1.1.0
@@ -8,6 +9,5 @@ pylint==2.12.2
 pytest==7.0.1 # from 6.2.5
 pytest-asyncio==0.18.1 # from 0.16.0
 pytest-cov==3.0.0
-autoflake==1.4
 requests==2.27.1 # from 2.26.0
 requests-mock==1.9.3
